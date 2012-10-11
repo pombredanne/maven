@@ -19,14 +19,6 @@
         <name>org.alexn</name>
         <url>http://github.com/alexandru/yieldLeft</url>
     </organization>
-    <url>http://github.com/alexandru/yieldLeft</url>
-    <licenses>
-        <license>
-            <name>BSD-style</name>
-            <url>http://www.opensource.org/licenses/bsd-license.php</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
     <scm>
         <url>git@github.com:alexandru/yieldLeft.git</url>
         <connection>scm:git:git@github.com:alexandru/yieldLeft.git</connection>
