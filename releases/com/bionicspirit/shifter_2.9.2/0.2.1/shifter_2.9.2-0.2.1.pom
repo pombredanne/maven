@@ -2,10 +2,10 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bionicspirit</groupId>
-    <artifactId>scala-shifter_2.9.2</artifactId>
+    <artifactId>shifter_2.9.2</artifactId>
     <packaging>jar</packaging>
-    <description>scala-shifter</description>
-    <url>http://github.com/alexandru/scala-shifter</url>
+    <description>shifter</description>
+    <url>http://github.com/alexandru/shifter</url>
     <version>0.2.1</version>
     <licenses>
         <license>
@@ -14,14 +14,14 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
-    <name>scala-shifter</name>
+    <name>shifter</name>
     <organization>
         <name>com.bionicspirit</name>
-        <url>http://github.com/alexandru/scala-shifter</url>
+        <url>http://github.com/alexandru/shifter</url>
     </organization>
     <scm>
-        <url>git@github.com:alexandru/scala-shifter.git</url>
-        <connection>scm:git:git@github.com:alexandru/scala-shifter.git</connection>
+        <url>git@github.com:alexandru/shifter.git</url>
+        <connection>scm:git:git@github.com:alexandru/shifter.git</connection>
     </scm>
     <developers>
         <developer>
@@ -47,12 +47,6 @@
             <groupId>hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
             <version>1.8.0.10</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.derby</groupId>
-            <artifactId>derby</artifactId>
-            <version>10.9.1.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
