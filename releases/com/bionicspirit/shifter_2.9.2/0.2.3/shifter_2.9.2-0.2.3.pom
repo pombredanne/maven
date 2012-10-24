@@ -32,6 +32,36 @@
     </developers>
     <dependencies>
         <dependency>
+            <groupId>com.bionicspirit</groupId>
+            <artifactId>shifter-core_2.9.2</artifactId>
+            <version>0.2.3</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.bionicspirit</groupId>
+            <artifactId>shifter-config_2.9.2</artifactId>
+            <version>0.2.3</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.bionicspirit</groupId>
+            <artifactId>shifter-logging_2.9.2</artifactId>
+            <version>0.2.3</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.bionicspirit</groupId>
+            <artifactId>shifter-db_2.9.2</artifactId>
+            <version>0.2.3</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.bionicspirit</groupId>
+            <artifactId>shifter-migrations_2.9.2</artifactId>
+            <version>0.2.3</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
             <version>2.9.2</version>
