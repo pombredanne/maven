@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <description>shifter</description>
     <url>http://github.com/alexandru/shifter</url>
-    <version>0.2.3</version>
+    <version>0.2.4</version>
     <licenses>
         <license>
             <name>BSD-style</name>
@@ -34,31 +34,31 @@
         <dependency>
             <groupId>com.bionicspirit</groupId>
             <artifactId>shifter-core_2.9.1</artifactId>
-            <version>0.2.3</version>
+            <version>0.2.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.bionicspirit</groupId>
             <artifactId>shifter-config_2.9.1</artifactId>
-            <version>0.2.3</version>
+            <version>0.2.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.bionicspirit</groupId>
             <artifactId>shifter-logging_2.9.1</artifactId>
-            <version>0.2.3</version>
+            <version>0.2.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.bionicspirit</groupId>
             <artifactId>shifter-db_2.9.1</artifactId>
-            <version>0.2.3</version>
+            <version>0.2.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.bionicspirit</groupId>
             <artifactId>shifter-migrations_2.9.1</artifactId>
-            <version>0.2.3</version>
+            <version>0.2.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
